@@ -9,10 +9,10 @@
   I'm Pourya
 </h1>
 
-- I am a Front-End developer :man_technologist: and full time freelancer from Iran.
+- I'm a Front-End developer :man_technologist: and full time freelancer from Iran.
 - Exploring Technical Content Writing and contributing to open source.
 - In my free time, I solve problems on StackOverFlow, read tech articles and play World of Warcraft.
-- You can contact me at devpourya@gmail.com
+- I'm available for freelancing. Please contact me at devpourya@gmail.com
 
 # 💻 Skills:
 <div>
